@@ -1,5 +1,5 @@
 Enter the nth value: 7
-8
+Ugly_number: 8
 Duration: 4.6253204345703125e-05
 
 Enter the nth value: 15
